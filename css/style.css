@@ -6,3 +6,23 @@
 .about {
     background-color: aqua;
 }
+
+.footer {
+    padding-top: 10rem;
+    text-align: center;
+}
+
+.ul {
+    list-style-type: none;
+    list-style: none;
+    display: none;
+}
+.card {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50px;
+    position: relative;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
